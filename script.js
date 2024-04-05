@@ -16,7 +16,7 @@
 
 let blogName = "Blog Microfreesoft";
 let authorName = "Microfreesoft";
-let authorLink = ""; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
+let authorLink = "https://microfreesoft.github.io"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
 //-----------------------------
 
